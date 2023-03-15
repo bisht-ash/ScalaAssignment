@@ -15,7 +15,7 @@ object Solution{
         // for 13.45 we comapare 5 with 4.9
         // fir 113.455 we comapare 55 with 49
 
-    if(right.toDouble < 4.9*math.pow(10,right.length-1)){
+    if(right.toDouble <= 4.9*math.pow(10,right.length-1)){
       left + "00"
     }
     else{

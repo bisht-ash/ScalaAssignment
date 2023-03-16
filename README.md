@@ -2,7 +2,7 @@
 
 ## Peer Review 
 
-###Aakash
+### Aakash
 
 #### Question 1: Bucketize the array
 1. He first formatted the input number to three decimal using f string interpolation.

@@ -33,9 +33,9 @@
 #### Question 2: Analyze the players
 1. He used case class to for player.
 2. He stored all the data of the players in a sequence.
-3. The highest_run_scored function takes an array of Player objects as input and returns the name of the player who scored the highest runs.
-4. The top_5_by_runs_scored function takes an array of Player objects as input and prints the names of the top 5 players who scored the highest runs, sorted in descending order.
-5. The top_5_by_wickets_taken function takes an array of Player objects as input and prints the names of the top 5 players who took the maximum number of wickets, sorted in descending order.
-6. The rank_players_using_wts function takes an array of Player objects as input and ranks the players based on their total score, which is calculated by multiplying their runs by 5 and adding their wickets multiplied by 0.05.
+3. The ```highest_run_scored``` function takes an array of Player objects as input and returns the name of the player who scored the highest runs.
+4. The ```top_5_by_runs_scored``` function takes an array of Player objects as input and prints the names of the top 5 players who scored the highest runs, sorted in descending order.
+5. The ```top_5_by_wickets_taken``` function takes an array of Player objects as input and prints the names of the top 5 players who took the maximum number of wickets, sorted in descending order.
+6. The ```rank_players_using_wts``` function takes an array of Player objects as input and ranks the players based on their total score, which is calculated by multiplying their runs by 5 and adding their wickets multiplied by 0.05.
 
 <hr>
